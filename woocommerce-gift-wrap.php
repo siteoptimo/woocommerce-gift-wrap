@@ -216,7 +216,7 @@ if ( in_array( 'woocommerce/woocommerce.php', apply_filters( 'active_plugins', g
 			 * The site-wide hooks.
 			 */
 			private function hooks() {
-				new WCGW_Custom_Field();
+				new WCGW_Frontend();
 
 				add_action( 'init', array( $this, 'sitewide_init' ) );
 			}
