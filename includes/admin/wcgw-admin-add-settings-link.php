@@ -31,7 +31,7 @@ class WCGW_Admin_Add_Settings_Link {
 	 * @return mixed
 	 */
 	public function wcgw_settings_link( $links ) {
-		$settings_link = '<a href="admin.php?page=wc-settings&tab=account">' . __( 'Settings', 'woocommerce-gift-wrap' ) . '</a>';
+		$settings_link = '<a href="admin.php?page=wc-settings&tab=woocommerce_gift_wrap_settings">'.__('Settings','woocommerce-gift-wrap').'</a>';
 		array_unshift( $links, $settings_link );
 
 		return $links;
