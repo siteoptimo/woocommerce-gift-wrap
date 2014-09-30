@@ -195,6 +195,7 @@ if ( in_array( 'woocommerce/woocommerce.php', apply_filters( 'active_plugins', g
 			 */
 			public function admin_init() {
 				new WCGW_Admin_Add_Settings_Link();
+				new WCGW_Admin_Add_Tab();
 				new WCGW_Admin_Setting_Fields();
 			}
 
