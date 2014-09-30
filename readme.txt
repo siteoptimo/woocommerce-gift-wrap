@@ -3,15 +3,15 @@ Contributors: siteoptimo
 Donate link: http://www.siteoptimo.com/
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl.html
-Tags: woocommerce, user, source, customer, acquisition, hear, about
+Tags: woocommerce, gift, wrap, checkout, birthday, wrapping, custom
 Requires at least: 3.6
 Tested up to: 4.0
 Stable tag: 1.0
 
-Ask where your new customers come from at checkout.
+Add product gift wrapping options to the WooCommerce cart. Easy.
 
 == Description ==
-This small plugin makes it possible to ask your customers where they came from at checkout. You can have a look in your Google Analytics, but it's easier (and more correct) to ask your customers where they came from by asking one question: "Where did you hear about us?".
+Let your customer choose his favorite gift wrapping for his products. This is an easy
 
 Current features:
 
