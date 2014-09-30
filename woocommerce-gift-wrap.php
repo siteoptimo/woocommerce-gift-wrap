@@ -3,7 +3,7 @@
 Plugin Name: WooCommerce Gift Wrap
 Version: 1.0
 Plugin URI: http://www.siteoptimo.com/#utm_source=wpadmin&utm_medium=plugin&utm_campaign=wch
-Description: Ask where your new customers come from at checkout.
+Description: Add product gift wrapping options to the WooCommerce cart. Easy.
 Author: SiteOptimo
 Author URI: http://www.siteoptimo.com/
 Text Domain: woocommerce-gift-wrap
